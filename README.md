@@ -37,7 +37,7 @@ Here are a few of my favorite projects:
 
 ## 📚 Recent Activities
 
-- Completed **Platforme Game** using pygame.
+- Completed **Platformer Game** using pygame.
 - Completed a project on **Line follower robot** using Arduino.
 
 ## 📫 How to Reach Me
