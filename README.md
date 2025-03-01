@@ -25,9 +25,9 @@ Here are a few of my favorite projects:
    - Interactive 2d game using pygame with custom multiple levels engaging pixel art, animations, and immersive sound effects.
 2. **[Quiz Game using C++ & SFML](https://github.com/chitrajoshi010/Quiz-Game-using-SFML-and-C-plus-plus.git)**
    - Interactive quiz game with multiple categories and scoring.
-3. **[Automatic Water Level Indicator and Pump Controller]
+3. **[Automatic Water Level Indicator and Pump Controller]**
    - Arduino-based automation with LCD display and relay control.
-4. **[Line Follower Robot]
+4. **[Line Follower Robot]**
    - Arduino-based automation.
 
 ## 🌱 Currently Learning
